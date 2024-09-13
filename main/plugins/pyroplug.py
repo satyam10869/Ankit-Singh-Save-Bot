@@ -24,7 +24,7 @@ logging.getLogger("telethon").setLevel(logging.INFO)
 # OWNER_ID = 7065117445 # edit this
 # LOG_GROUP = -1001878947221 #edit this
 
-MDB = "mongodb+srv://ggn:ggn@ggn.upuljx5.mongodb.net/?retryWrites=true&w=majority&appName=ggn"
+MDB = "mongodb+srv://singhalparul98:fCxWD0p8SAIiLaGP@clustersrcb.thgqk.mongodb.net/?retryWrites=true&w=majority&appName=Clustersrcb"
 MONGODB_CONNECTION_STRING = config("MONGODB", default=MDB)
 
 # MongoDB database name and collection name
